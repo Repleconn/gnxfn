@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+    <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Prodampochku.ru</title>
+<style>
+h1 {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+</style>
+</head>
+
+<body>
+
+<h1><p> <i><font size="27">Всем привет дорогие друзья, с вами ******* и добро пожаловать в голос времени.</font></font></i></p></h1>
+
+</body>
+</html>
